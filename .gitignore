@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+.idea/
+.idea/**/*
+generated/
+generated/**/*
+training_checkpoints*/
+training_checkpoints*/**/*
+__pycache__/
+__pycache__/**/*
+*iml
+*png
